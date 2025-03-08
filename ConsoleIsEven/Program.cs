@@ -4,6 +4,12 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
+
+////Определение, является ли число четным
+//Структура:
+//Входные данные: одно целое число number.
+//Выходные данные: true, если число четное, иначе false.
+
 namespace ConsoleIsEven
 {
     internal class Program
